@@ -9,7 +9,7 @@
 ### 📌 진행 중인 포트폴리오
 - [🎯 React Todo 앱](https://github.com/jongbeomi/react-todo-app)
 - [🖌 Figma 리디자인 프로젝트](https://www.figma.com/파일링크 또는 notion 링크)
-- [🏅 최우수상 수상 프로젝트](https://github.com/jongbeomi/best-team-project)
+- [🏅 최우수상 수상 프로젝트](https://github.com/jongbeomi/acornProject)
 
 ### 🛠 사용 기술
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
