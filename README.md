@@ -31,7 +31,7 @@
 
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|------------|
-| **국내 여행 루트 공유 게시판 및 국내 행사・관광지 추천 사이트** | Spring 기반 여행 정보 및 경로 공유 서비스, 프론트엔드 팀장을 맡아 JSP 기반 UI 구성 및 퍼블리싱 진행. 최우수상 수상. | HTML, CSS, JavaScript, JSP, JAVA, Spring, Github |
+| **국내 여행 루트 공유 게시판 및 국내 행사・관광지 추천 사이트(https://github.com/jongbeomi/acornProject)** | Spring 기반 여행 정보 및 경로 공유 서비스, 프론트엔드 팀장을 맡아 JSP 기반 UI 구성 및 퍼블리싱 진행. 최우수상 수상. | HTML, CSS, JavaScript, JSP, JAVA, Spring, Github |
 
 👉 [프로젝트 전체 보기](https://github.com/jongbeomi?tab=repositories)
 
