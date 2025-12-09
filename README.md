@@ -28,7 +28,7 @@
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|------------|
 | **국내 여행 루트 공유 게시판 및 국내 행사・관광지 추천 사이트(https://github.com/jongbeomi/acornProject)** | Spring 기반 여행 정보 및 경로 공유 서비스. 프론트엔드 팀장으로 JSP 기반 화면 구성 및 퍼블리싱 담당. 최우수상 수상. | HTML, CSS, JavaScript, JSP, Java, Spring, GitHub |
-| **감정 기록 다이어리(Emotion Diary)** | 하루의 감정, 한 줄 기록, 작은 성취 등을 간단하게 남기고, localStorage를 활용해 기록을 다시 볼 수 있는 원페이지 웹 프로젝트. Figma로 디자인 구조 설계 후 HTML/CSS/JS로 구현 중. | HTML, CSS, JavaScript, Figma, localStorage, GitHub |
+| **우울증 환자를 위한 웹 다이어리** | 하루의 감정, 한 줄 기록, 작은 성취 등을 간단하게 남기고, localStorage를 활용해 기록을 다시 볼 수 있는 원페이지 웹 프로젝트. Figma로 디자인 구조 설계 후 HTML/CSS/JS로 구현 중. | HTML, CSS, JavaScript, Figma, localStorage, GitHub |
 
 
 ---
