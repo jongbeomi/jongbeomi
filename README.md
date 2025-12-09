@@ -1,12 +1,8 @@
-# 👋 Hello! I'm Jongbeom Kim
+## 👋 안녕하세요! 김종범이라고 합니다!
 
-신입 프론트엔드 개발자 김종범입니다.  
-
-디자인 감각과 구현 능력을 함께 갖추기 위해 노력하며, 사용자 중심의 UI를 구현하는 데 보람을 느낍니다.
-
-프론트엔드와 웹 퍼블리싱 기반 위에, React와 Figma 등을 꾸준히 학습하고 있으며  
-기획자·디자이너·개발자와 유연하게 협업할 수 있는 팀 개발자를 목표로 성장 중입니다.
-
+웹 퍼블리셔로 첫 커리어를 준비하고 있습니다.
+사용하기 편한 웹, 읽기 쉬운 코드, 구조가 명확한 UI를 만드는 데 관심이 많습니다.
+최근에는 반응형 웹과 자바스크립트를 활용한 간단한 인터렉션 구현에 집중해 공부하고 있습니다.
 ---
 
 ## 🔧 Skills
@@ -31,9 +27,9 @@
 
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|------------|
-| **국내 여행 루트 공유 게시판 및 국내 행사・관광지 추천 사이트(https://github.com/jongbeomi/acornProject)** | Spring 기반 여행 정보 및 경로 공유 서비스, 프론트엔드 팀장을 맡아 JSP 기반 UI 구성 및 퍼블리싱 진행. 최우수상 수상. | HTML, CSS, JavaScript, JSP, JAVA, Spring, Github |
+| **국내 여행 루트 공유 게시판 및 국내 행사・관광지 추천 사이트(https://github.com/jongbeomi/acornProject)** | Spring 기반 여행 정보 및 경로 공유 서비스. 프론트엔드 팀장으로 JSP 기반 화면 구성 및 퍼블리싱 담당. 최우수상 수상. | HTML, CSS, JavaScript, JSP, Java, Spring, GitHub |
+| **감정 기록 다이어리(Emotion Diary)** | 하루의 감정, 한 줄 기록, 작은 성취 등을 간단하게 남기고, localStorage를 활용해 기록을 다시 볼 수 있는 원페이지 웹 프로젝트. Figma로 디자인 구조 설계 후 HTML/CSS/JS로 구현 중. | HTML, CSS, JavaScript, Figma, localStorage, GitHub |
 
-👉 [프로젝트 전체 보기](https://github.com/jongbeomi?tab=repositories)
 
 ---
 
